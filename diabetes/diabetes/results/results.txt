@@ -1,0 +1,5 @@
+(A) We can see  mean and sample mean resulted are almost same. This means the sample that is selected reflects the entire data well. 
+(B) We can observe that the population BMI percentile is higher than  sample data. Sample data didn't completely capture the population data well.
+(C)In the bootstrapping, mean values of bootstrap sample and population is similar. 
+For standard deviation the bootstrap is of less value than that of population data set. But for percentile,
+ the bootstrap percentile is more than that of population percentile. 
